@@ -1,8 +1,6 @@
 # ONE - Challenge "Amigo Secreto" 🎁
 Esse challenge foi parte do processo de seleção para o programa Oracle Next Education.
 
-Um projeto simples, feito com **HTML, CSS e JavaScript** para realizar sorteios de amigo secreto.
-
 ## ✨ Funcionalidades (implementadas com JS)
 
 - **Adição dos nomes**: os usuários podem digitar os nomes dos amigos participantes do amigo secreto no campo de texto, adicionando-o em uma lista visível; 
