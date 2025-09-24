@@ -1,5 +1,8 @@
 # ONE - Challenge "Amigo Secreto" 🎁
-Esse challenge foi parte do processo de seleção para o programa Oracle Next Education.
+Olá! Seja bem-vindo ao meu repositório. Esse challenge foi parte do processo de seleção para o programa Oracle Next Education.
+
+## Visão geral da aplicação:
+Por meio dessa aplicação web, é possível adicionar o nome de vários amigos numa lista e realizar um sorteio entre eles, com a finalidade de fazer um maravilhoso e misterioso amigo secreto :) Aproveite para testar e se divertir!
 
 ## Tecnologias Utilizadas:
 
